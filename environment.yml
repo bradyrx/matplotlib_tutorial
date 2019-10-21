@@ -1,0 +1,17 @@
+name: climate-science-colormapping
+channels:
+  - conda-forge
+dependencies:
+  # Analysis packages
+  - numpy
+  - pandas
+  - xarray
+  - xesmf
+  # Visualization packages
+  - matplotlib
+  - basemap
+  - cartopy
+  - cmocean
+  # I/O
+  - netcdf4
+  - nc-time-axis
