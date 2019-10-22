@@ -1,4 +1,4 @@
-name: climate-science-colormapping
+name: matplotlib-tutorial 
 channels:
   - conda-forge
 dependencies:
